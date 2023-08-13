@@ -1,5 +1,0 @@
-{{#user}
-Name: Devyang Saini
-Skills: HTML, CSS, JS, React.js
-Email: devyangsaini2002d@gmail.com
-{{/user}}
